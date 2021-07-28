@@ -1,0 +1,15 @@
+.panda-bg-info{
+    background-color: #fceae8;
+}
+.panda-bg-color{
+    color: white;
+    border: none;
+    border-radius: 18px;
+    background-color: #ff4c93;
+}
+.categories img{
+            width: 100px;
+}
+.slider-section{
+   padding-top: 120px !important;
+}
